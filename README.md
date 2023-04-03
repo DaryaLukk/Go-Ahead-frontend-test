@@ -5,7 +5,7 @@ Realize on React, TypeScript, tests on Jest👾
 How open:
 
 - copy repository
-  in terminal:
+- in terminal:
 - cd frontend
 - npm i
 - npm start
