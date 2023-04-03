@@ -37,6 +37,15 @@
   border: 3px solid #35694F;
 }
 
+.text div {
+  font-size: 15px;
+  color: #FF0000;
+  display: flex;
+  flex-direction: row;
+  gap: 4.67px;
+  visibility: hidden;
+}
+
 .form .checkbox {
   margin-top: 46px;
   margin-bottom: 28px;
@@ -116,6 +125,26 @@
 .form button:hover {
   background-color: #55A37C;
   cursor: pointer;
+}
+
+/* error */
+.errorName input,
+.errorEmail input {
+  border: 3px solid #FF0000;
+}
+
+.errorName div,
+.errorEmail div {
+  visibility: visible;
+}
+
+.errorName div .img,
+.errorEmail div .img {
+  width: 16.67px;
+  height: 16.67px;
+
+  background: url('./error.png') no-repeat;
+  background-size: 16.67px 16.67px;
 }
 
 
