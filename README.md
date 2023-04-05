@@ -7,5 +7,5 @@ How open:
 - copy repository
 - in terminal:
 - cd frontend
-- npm i
+- npm i (or npm i --force)
 - npm start
