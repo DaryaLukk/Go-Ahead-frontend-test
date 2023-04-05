@@ -1,6 +1,6 @@
 # Go-Ahead-frontend-test
 
-Realize on React, TypeScript, tests on Jest👾
+Realize on React && TypeScript👾
 
 How open:
 
@@ -9,3 +9,5 @@ How open:
 - cd frontend
 - npm i (or npm i --force)
 - npm start
+
+![Image alt](./visual.png)

@@ -1,19 +1,13 @@
 import React from 'react'
 import Form from '../Form/Form'
+import Nav from '../Nav/Nav'
 import './MainPage.css'
 
 const MainPage = (): JSX.Element => {
   return (
     <>
-    <div className='header'>
-        <div className='main-link'></div>
-        <div className='links'>
-          <div className='link'></div>
-          <div className='link'></div>
-          <div className='link'></div>
-        </div>
-      </div>
-      <div className='body'>
+    <Nav />
+      <div className='form-container'>
         <h2>Submit your details</h2>
         <div className='content'>
           <Form />
