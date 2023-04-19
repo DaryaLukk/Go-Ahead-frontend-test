@@ -1,13 +1,13 @@
 # Go-Ahead-frontend-test
 
-Realize on React && TypeScript👾
+Верстка по макету
 
-How open:
+Как открыть:
 
-- copy repository
-- in terminal:
+- скопировать репозиторий
+- в терминале:
 - cd frontend
-- npm i (or npm i --force)
+- npm i --force
 - npm start
 
 ![Image alt](./visual.png)
